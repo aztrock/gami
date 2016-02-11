@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"fmt"
-	"net"
+	"net",
 	"os"
 	"sync"
 )
